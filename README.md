@@ -3,7 +3,7 @@
     
     README.md
     
-        龙哥大航海 2024：文档中文名
+       
         {nameEn}：文档英文名
         {urlEn}：文档原始链接
         dhh24：域名前缀
@@ -55,7 +55,3 @@ npm install -g flygon-dahanghai-2024
 flygon-dahanghai-2024 <port>
 # 访问 http://localhost:{port} 查看文档
 ```
-
-## 赞助我
-
-![](https://img-blog.csdnimg.cn/20200112005920729.png)
